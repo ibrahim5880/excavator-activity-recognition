@@ -1,5 +1,7 @@
 # Excavator Activity Recognition — Multi-Sensor IMU Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23894433.svg)](https://doi.org/10.5281/zenodo.23894433)
+
 Motion data recorded from an excavator during post-earthquake demolition operations
 following the 6 February 2023 Kahramanmaraş earthquakes (Türkiye). This dataset supports
 the article:
@@ -68,8 +70,11 @@ data/
 
 ## Citation
 
-If you use this dataset, please cite the article above and this dataset (see the DOI badge /
-Zenodo record for the dataset citation).
+If you use this dataset, please cite the article above and the dataset:
+
+> Karatas, I., & Budak, A. (2026). *Excavator Activity Recognition: Multi-Sensor IMU Dataset
+> from Post-Earthquake Demolition Operations* (v1.0.0) [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.23894433
 
 ## License
 
