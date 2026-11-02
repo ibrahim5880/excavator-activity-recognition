@@ -70,7 +70,15 @@ data/
 
 ## Citation
 
-If you use this dataset, please cite the article above and the dataset:
+If you use this dataset, please cite both the article and the dataset:
+
+**Article**
+
+> Karatas, I., & Budak, A. (2026). Deep Learning-Based Classification of Excavator Activities
+> from Multi-Sensor Motion Data in Post-Earthquake Demolition Operations. *Canadian Journal of
+> Civil Engineering*. (Accepted, in press)
+
+**Dataset**
 
 > Karatas, I., & Budak, A. (2026). *Excavator Activity Recognition: Multi-Sensor IMU Dataset
 > from Post-Earthquake Demolition Operations* (v1.0.0) [Data set]. Zenodo.
